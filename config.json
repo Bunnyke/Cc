@@ -1,0 +1,6 @@
+{
+  "proxy_config": {
+    "http": "socks5://PP_D4F1YGPKC1-country-US-state-Newyork-session-tMJaETm8HSRJ:omf4xz27@evo-pro.porterproxies.com:61236/",
+    "https": "socks5://PP_D4F1YGPKC1-country-US-state-Newyork-session-tMJaETm8HSRJ:omf4xz27@evo-pro.porterproxies.com:61236/"
+  }
+}
